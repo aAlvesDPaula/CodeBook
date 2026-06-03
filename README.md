@@ -13,7 +13,7 @@
   <a href="https://github.com/okto-prog/codebook" target="_blank" rel="noopener noreferrer nofollow" style="display:inline-block"><img src="https://img.shields.io/badge/C%2B%2B-17-blue" alt="C++17" style="max-width: 100%;"></a>
   <a href="https://github.com/okto-prog/codebook"><img src="https://img.shields.io/github/stars/okto-prog/codebook?style=social" alt="GitHub stars"></a>
   <br>
-  <a href="https://github.com/okto-prog/codebook/actions/workflows/compile.yml" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/github/actions/workflow/status/okto-ptog/codebook/compile.yml?style=for-the-badge&logo=github&label=Compilador" alt="Compilar Codebook"></a>
+  <a href="https://github.com/okto-prog/codebook/actions/workflows/compile.yml" target="_blank" rel="noopener noreferrer nofollow"><img src="https://img.shields.io/github/actions/workflow/status/okto-prog/codebook/compile.yml?style=for-the-badge&logo=github&label=Compilador" alt="Compilar Codebook"></a>
   <a href="https://github.com/okto-prog/codebook/blob/main/codebook.pdf" target="_blank"><img src="https://img.shields.io/badge/📄_PDF_Codebook-Abrir-blue?style=for-the-badge"></a>
 </h1>
 
