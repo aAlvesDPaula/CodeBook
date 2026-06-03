@@ -49,6 +49,5 @@ O projeto é estruturado de forma modular nas seguintes pastas:
 
 ##  Integrantes e Contribuidores
 
-O desenvolvimento e a manutenção deste projeto são realizados pelos bolsistas e membros da equipe **Oktoplus**:
-
-Agradecemos ao **CEFET-MG, Campus Leopoldina**, pelo apoio institucional e fomento ao projeto de Programação Competitiva.
+O desenvolvimento e a manutenção deste projeto são realizados pelos coordenadores e membros da equipe Oktoplus.
+Agradecemos ao CEFET-MG, pelo apoio institucional e fomento ao projeto de Programação Competitiva.
